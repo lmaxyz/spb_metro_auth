@@ -21,3 +21,6 @@ try:
         print(f"Response: {auth_resp.content}")
 except KeyError:
     print('[!] Can\'t authorize in network.')
+
+except Exception as e:
+    print(f'[!] Can\'t authorize in network.\nError: {e}')
