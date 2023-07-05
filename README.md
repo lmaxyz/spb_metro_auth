@@ -1,9 +1,9 @@
 # SPB Metro fast auth script
 
-Python script for fast authorization in Saint Petersburg's metro WiFi network.
+Scripts for fast authorization in Saint Petersburg's metro WiFi network.
 
 
-### Requirements:
+### Requirements for python script:
 
 * requests => 2.26.0
 
